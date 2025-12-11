@@ -1,4 +1,4 @@
-COUNTRY,NUM_COAL_MINES,NUM_INFRA_WITH_AT_LEAST_1_PLUME,Coal mines with at least one plume,Coal mines with no satellite detection
+COUNTRY,NUM_COAL_MINES,NUM_INFRA_WITH_AT_LEAST_1_PLUME,Coal mines with at least one plume attributed,Coal mines with no attributed plumes
 Australia,207,20.0,9.66183574879227,90.33816425120773
 Botswana,4,1.0,25.0,75.0
 Canada,45,3.0,6.666666666666667,93.33333333333333
